@@ -5,6 +5,7 @@
 * Noto Sans KR 적용 (애플 시스템의 경우 애플 네오 고딕 우선 적용)
 * 단어 단위 줄바꿈 적용 (`word-break: keep-all`)
 * 기본 행간 넓힘 (`line-height: 1.3`)
+* 목록 속 목록 간격 조정 (`margin-top: .5rem`)
 
 ## 클론
 
