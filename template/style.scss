@@ -18,6 +18,14 @@ $font-fixed       : 'Lucida Console', Monaco, monospace;
 $margin           : 20px;
 $iframe-scale     : 1.5;
 
+// GrotesQ Custom
+// ---------------------------------------------------------------------------
+
+ul, ol {
+  ul, ol {
+    margin-top: .5rem;
+  }
+}
 
 // CSS Base
 // ---------------------------------------------------------------------------
