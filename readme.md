@@ -9,7 +9,7 @@
 ## 클론
 
 ```shell
-gh remote clone grotesq/bs-template
+gh repo clone grotesq/bs-template
 ```
 
 ## Backslide 설치
