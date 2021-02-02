@@ -7,17 +7,23 @@
 * 기본 행간 넓힘 (`line-height: 1.3`)
 * 목록 속 목록 간격 조정 (`margin-top: .5rem`)
 
-## 클론
-
-```shell
-gh repo clone grotesq/bs-template
-```
-
 ## Backslide 설치
+
+최초 1회 `backslide`를 글로벌 설치 해야 합니다.
 
 ```shell
 npm i -g backslide
 ```
+
+## 클론
+
+```shell
+gh repo clone grotesq/bs-template
+# 새 디렉토리명을 지정해서 클론할 수 있습니다.
+gh repo clone grotesq/bs-template new-name
+```
+
+`cd {디렉토리명}` 명령으로 디렉토리 이동 후 다음 과정으로 넘어갑니다.
 
 ## 실행
 
